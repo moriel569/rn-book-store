@@ -1,0 +1,12 @@
+{
+  "name": "rn-book-store",
+  "displayName": "rn-book-store",
+  "expo": {
+    "name": "rn-book-store",
+    "slug": "rn-book-store",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
